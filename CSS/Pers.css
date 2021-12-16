@@ -1,0 +1,60 @@
+body{
+	background-color: #FFFEF0;
+}
+
+header {
+	text-align: center;
+}
+
+header h1{
+	font-family: Dancing Script, Quotes Script, Sauber Script;
+	font-size: 60px;
+	color: #EE9DF9;
+}
+
+header img{
+
+	border-radius: 40px;
+	border: 10px solid #FBEEFC;
+
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding-top: 100px;
+	padding-bottom: 70px;
+	line-height: 29px;
+}
+
+main p{
+	font-family: Open Sans, Arial;
+	font-size: 17px;
+	padding-bottom: 40px;
+
+}
+
+main h2{
+	font-family: Academy Engraved LET;
+	font-size: 35px;
+	color: #E9A7ED;
+}
+
+main ul{
+	font-family: Open Sans, Arial;
+	padding-bottom: 40px;
+}
+
+main ol{
+	font-family: Open Sans, Arial;
+	padding-bottom: 40px;
+}
+main a{
+	color: #F1BBF5;
+}
+
+Footer{
+	text-align: center;
+	font-family: arial;
+	font-family: 15px;
+}
