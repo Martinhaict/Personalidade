@@ -36,7 +36,7 @@ main p{
 
 main h2{
 	font-family: Academy Engraved LET;
-	font-size: 35px;
+	font-size: 40px;
 	color: #E9A7ED;
 }
 
@@ -57,4 +57,14 @@ Footer{
 	text-align: center;
 	font-family: arial;
 	font-family: 15px;
+}
+
+div.m{
+ 	font-family: arial;
+ 	color: indianred;
+ }
+
+a:houver{
+ 	 background-color: green;
+ 	 color: floralwhite;
 }
